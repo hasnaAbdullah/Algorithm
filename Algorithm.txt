@@ -132,3 +132,29 @@ Compare with 6 → no change
 Compare with 2 → 2 is smaller → smallest = 2
 Compare with 9 → no change
 output :2
+
+
+
+Q4:
+
+Positive number: greater than 0 (>0)
+Negative number: less than 0 (<0)
+Zero is usually not counted in either category.
+
+Input:
+5, -3, 0, 7, -1, 2
+
+Number 5 → positive → positive = 1
+Number -3 → negative → negative = 1
+Number 0 → do nothing
+Number 7 → positive → positive = 2
+Number -1 → negative → negative = 2
+Number 2 → positive → positive = 3
+
+Output:
+Number of positive numbers: 3
+Number of negative numbers: 2
+
+
+
+
