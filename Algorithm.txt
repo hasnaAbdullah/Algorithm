@@ -222,11 +222,23 @@ Input: [5, 1, 9, 7]
 Output: 7
 
 
+Q9:
+
+A palindrome is a word, phrase, or sequence that reads the same forwards and backwards.
+We ignore spaces and letter case.
+
+Clean the string:
+Remove all spaces
+Convert all letters to lowercase
+
+Compare the cleaned string with its reverse:
+If they are equal → it’s a palindrome
+Else → it’s not a palindrome
 
 
-
-
-
+1 Remove spaces → "Madam" (no spaces)
+2 Convert to lowercase → "madam"
+3 Reverse → "madam"
 
 
 
