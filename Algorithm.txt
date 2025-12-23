@@ -2,3 +2,27 @@
 
 Pseudocode is an informal way of writing an algorithm using simple English and basic programming logic.
 It is not a real programming language, so it does not follow strict syntax rules.
+
+2. Why and When Do We Use Pseudocode?
+Why we use pseudocode:
+
+To plan an algorithm before coding
+
+To understand the logic clearly
+
+To communicate ideas easily with others
+
+To avoid syntax errors while thinking about logic
+
+To make it easier to convert into any programming language later
+
+When we use pseudocode:
+
+Before writing actual code
+
+During exams or assignments to explain logic
+
+While designing algorithms
+
+When learning programming concepts
+
