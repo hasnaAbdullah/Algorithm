@@ -240,7 +240,16 @@ Else → it’s not a palindrome
 2 Convert to lowercase → "madam"
 3 Reverse → "madam"
 
+Q10:
+The Fibonacci sequence is a series of numbers where each number is the sum of the previous two numbers.It starts with 0 and 1.
+Example of first few numbers:
+0, 1, 1, 2, 3, 5, 8, 13, ...
 
+1 Start with a list containing the first two numbers: [0, 1]
+2 Keep adding numbers to the list until we have N numbers:
 
+New number = sum of the last two numbers in the list
 
+3 Stop when the list reaches the desired length N
 
+Start with 0 and 1, then keep adding the sum of the last two numbers until you have N numbers.
