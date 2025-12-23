@@ -162,3 +162,36 @@ Add it to a new list only if it is not already there
 
 Input: 1, 2, 2, 3, 4, 4, 5
 Output: 1, 2, 3, 4, 5
+
+Q6:
+
+A prime number is a number greater than 1 that has no divisors other than 1 and itself.
+
+Examples: 2, 3, 5, 7, 11
+
+Non-prime (composite) numbers can be divided evenly by numbers other than 1 and themselves.
+Example: 4 (divisible by 2), 6 (divisible by 2 and 3)
+
+Step-by-Step 
+
+Suppose N = 10
+We want primes ≤ 10
+Check 2:
+Divisible by 2 only → prime 
+Check 3:
+Divisible by 3 only → prime 
+Check 4:
+Divisible by 2 → not prime 
+Check 5:
+Divisible by 2,3,4? No → prime 
+Check 6:
+Divisible by 2 → not prime 
+Check 7:
+Divisible by 2,3,4,5,6? No → prime 
+Check 8:
+Divisible by 2 → not prime 
+Check 9:
+Divisible by 3 → not prime 
+Check 10:
+Divisible by 2 → not prime 
+Prime numbers up to 10: 2, 3, 5, 7
