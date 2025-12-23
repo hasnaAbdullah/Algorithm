@@ -98,3 +98,27 @@ A sequence where each number is the sum of the two previous numbers.
 10-Print average
 11-End
 
+
+
+
+Q2:
+number % 2 gives the remainder when dividing by 2
+If the remainder is 0 → Even
+If the remainder is 1 → Odd
+
+1-Start
+2-Read number
+
+3-If number % 2 == 0 then
+   4- Print "Even"
+5-Else
+  6-  Print "Odd"
+6-End If
+7-End
+Simple example
+Input:7
+Process :7/2=3
+output:Odd
+if a number is divisible by 2 → Even, otherwise → Odd
+
+
