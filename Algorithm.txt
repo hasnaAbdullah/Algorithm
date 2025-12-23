@@ -121,4 +121,14 @@ Process :7/2=3
 output:Odd
 if a number is divisible by 2 → Even, otherwise → Odd
 
+Q3:
 
+Input :8,3,6,2,9
+
+Step-by-step :
+Start: smallest = 8
+Compare with 3 → 3 is smaller → smallest = 3
+Compare with 6 → no change
+Compare with 2 → 2 is smaller → smallest = 2
+Compare with 9 → no change
+output :2
