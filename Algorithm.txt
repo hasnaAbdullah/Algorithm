@@ -26,3 +26,56 @@ While designing algorithms
 
 When learning programming concepts
 
+
+3. How to Write Pseudocode to Represent an Algorithm?
+
+There is no single strict format, but common rules include:
+
+General Rules:
+
+Use simple English
+
+Write steps in a logical sequence
+
+Use keywords like:
+
+START, END
+
+INPUT, OUTPUT
+
+IF, ELSE
+
+FOR, WHILE
+
+Indent blocks for clarity
+
+Avoid language-specific syntax (like {}, ;)
+
+Common Pseudocode Keywords:
+
+INPUT – to take data
+
+SET – to assign values
+
+IF / ELSE – for decision making
+
+FOR / WHILE – for loops
+
+PRINT / OUTPUT – to show result
+
+
+Palindrome
+A word or sentence that reads the same forwards and backwards.
+
+Duplicate
+A value that appears more than once.
+
+Sequence
+An ordered list of numbers or elements.
+
+Fibonacci
+A sequence where each number is the sum of the two previous numbers.
+
+
+
+
