@@ -252,4 +252,4 @@ New number = sum of the last two numbers in the list
 
 3 Stop when the list reaches the desired length N
 
-Start with 0 and 1, then keep adding the sum of the last two numbers until you have N numbers.
+Start with 0 and 1, then keep adding the sum of the last two numbers until you have N numbers..
